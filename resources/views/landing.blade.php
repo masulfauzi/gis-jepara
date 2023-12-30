@@ -183,7 +183,7 @@
                                     <div class="col-lg-6" data-aos="fade-up">
                                         <h1 class="page-header-ui-title">Sistem Informasi Jalan dan Jembatan</h1>
                                         <p class="page-header-ui-text mb-5">Sistem Informasi Jalan dan Jembatan. Merupakan aplikasi yang ibangun dan dikembangkan sebagai terobosan inovasi pengelolaan data jalan dan jembatan.</p>
-                                        <a class="btn btn-teal fw-500 me-2" href="#!">
+                                        <a class="btn btn-teal fw-500 me-2" href="{{ route('login') }}">
                                             Get Started
                                             <i class="ms-2" data-feather="arrow-right"></i>
                                         </a>
